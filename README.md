@@ -25,7 +25,8 @@ IDE: Kaggle
 *Sensitivity: 98.0%
 *Precision: 80.6%
 
-![Completed Research poster](FINAL Ewsef Research poster.png)
+<img width="4608" height="3456" alt="FINAL Ewsef Research poster" src="https://github.com/user-attachments/assets/2b78ae17-2c87-4c8e-91d5-2d3b6f925772" />
+
 
 
 ## .pth source file

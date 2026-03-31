@@ -24,6 +24,8 @@ IDE: Kaggle
 *AUC: 0.9623
 *Sensitivity: 98.0%
 *Precision: 80.6%
+![Completed Research poster](FINAL Ewsef Research poster.png)
+
 
 ## .pth source file
 https://drive.google.com/file/d/1gZbOciZcPVWQRucdkBLzHkTcA7luKAg6/view?usp=drive_link

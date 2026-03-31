@@ -3,8 +3,7 @@
 https://huggingface.co/spaces/doeygirl93/preeclampsia_screener
 
 ## Overveiw
-Preeclampsia is a serious pregnacy disorder and disportionetly impacts women of color. If not detected early. Preeclampsia can lead to severe outcomes for both the mother and baby.  This project explores an AI-driven system can help identify high‑risk cases for early PE screening by utilizing retinal fundus images 
-This project was orginally trained in kaggle hence why i uploaded it. I used pytorch to train the model and gradio for the demo
+Preeclampsia is a serious pregnancy disorder and disproportionately impacts women of color. If not detected early. Preeclampsia can lead to severe outcomes for both the mother and baby. This project explores an AI-driven system that can help identify high‑risk cases for early PE screening by utilizing retinal fundus images. This project was originally trained in Kaggle, hence why I uploaded it. I used PyTorch to train the model and Gradio for the demo.
 
 
 ## Awards won
